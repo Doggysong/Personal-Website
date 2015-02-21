@@ -1,4 +1,7 @@
-background: black
-body h1{
-    color: red
+html {
+    background: black;
+}
+body {
+    color: white;
+    text-align: center;
 }
